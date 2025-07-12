@@ -70,7 +70,7 @@
 - Agile, Scrum & Jira
 - Git & CI/CD with Jenkins
 - C# OOP, ADO.NET, LINQ
-- Entity Framework Core (Code First, DB First, Migrations, Queries)
+- Entity Framework Core
 - ASP.NET MVC & Web API
 - SQL Server & MySQL
 - Secure Coding & Microservices Basics
@@ -81,12 +81,6 @@
 - ✉️ Email: **pratikwaghade31@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/pratikwaghade](https://www.linkedin.com/in/pratik-waghade-46a038221/)
 - 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikwaghade&show_icons=true&theme=default)
-
 ---
 
 🔍 *“I believe in learning by building. Every project I complete is a step closer to my dream.”*  
