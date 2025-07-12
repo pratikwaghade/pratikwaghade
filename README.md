@@ -1,4 +1,4 @@
-### 👋 Hi there, Iam Pratik Waghade!
+### 👋 Hi there, I am Pratik Waghade!
 
 🎓 I am passionate about working with:
 - Java Development
