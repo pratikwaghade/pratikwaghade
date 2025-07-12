@@ -81,7 +81,6 @@
 #### 📫 How to Reach Me
 - ✉️ Email: **pratikwaghade31@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/pratikwaghade](https://www.linkedin.com/in/pratik-waghade-46a038221/)
-- 
 ---
 
 🔍 *“I believe in learning by building. Every project I complete is a step closer to my dream.”*  
