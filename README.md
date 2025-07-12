@@ -61,13 +61,6 @@
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/><br><sub><b>Jira</b></sub>
-    </td>
-    <td align="center" width="100">
-      🟣<br><sub><b>Entity Framework</b></sub>
-    </td>
-    <td align="center" width="100">
-      🌿<br><sub><b>LINQ</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -76,7 +69,9 @@
 ### 🆕 Recently Learned:
 - Agile, Scrum & Jira
 - Git & CI/CD with Jenkins
-- C# OOP, ADO.NET, LINQ, Web API
+- C# OOP, ADO.NET, LINQ
+- Entity Framework Core (Code First, DB First, Migrations, Queries)
+- ASP.NET MVC & Web API
 - SQL Server & MySQL
 - Secure Coding & Microservices Basics
 
@@ -85,6 +80,13 @@
 #### 📫 How to Reach Me
 - ✉️ Email: **pratikwaghade31@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/pratikwaghade](https://www.linkedin.com/in/pratik-waghade-46a038221/)
+- 
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikwaghade&show_icons=true&theme=default)
+
 ---
 
 🔍 *“I believe in learning by building. Every project I complete is a step closer to my dream.”*  
