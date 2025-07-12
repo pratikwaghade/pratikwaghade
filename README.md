@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Pratik Waghade!
+### 👋 Hi there, Iam Pratik Waghade!
 
 🎓 I am passionate about working with:
 - Java Development
-- .NET & C# Development
+- NET & C# Development
 
 ---
 
