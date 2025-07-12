@@ -84,7 +84,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🆕 Recently Learned:
