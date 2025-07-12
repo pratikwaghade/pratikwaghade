@@ -1,10 +1,8 @@
 ### 👋 Hi there, I'm Pratik Waghade!
 
-🎓 I'm a Computer Engineering graduate from Savitribai Phule Pune University (Batch 2024) with a Diploma background and strong problem-solving skills.
-
-💻 I'm passionate about:
-- Java Development (Core Java, JDBC, Hibernate)
-- .NET & C# development (ASP.NET MVC & Web API)
+🎓 I am a Computer Engineering graduate from Savitribai Phule Pune University (Batch 2024) with a Diploma I'm passionate about:
+- Java Development
+- .NET & C# development
 
 ---
 
@@ -54,3 +52,5 @@
 ---
 
 🔍 *“I believe in learning by building. Every project I complete is a step closer to my dream.”*
+![Profile Views](https://komarev.com/ghpvc/?username=pratikwaghade&color=blue&style=flat-square)
+
